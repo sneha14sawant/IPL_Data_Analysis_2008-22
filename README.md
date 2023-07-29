@@ -14,4 +14,4 @@ Who is the most valuable player of every season?
 Who is the orange cap and purple cap winner year after year?
 Create a background image of Ipl so that the dashboard looks beautiful. Put some navigation options and filters for user experience.
 
-To view my Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/IPLDATA_16826953602640/IPL)
+### To view my Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sneha.sawant/viz/IPLDATA_16826953602640/IPL)
